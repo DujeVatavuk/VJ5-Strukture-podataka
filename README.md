@@ -1,5 +1,5 @@
 # VJ5-Strukture-podataka
-Vježba 5
+Vjezba 5
 
 Napisati program koji iz datoteke čita podatke o studentima i sprema ih u binarno stablo pretraživanja.
 struct _student{char ime[20]; char prezime[20]; char indexNo[20];};
